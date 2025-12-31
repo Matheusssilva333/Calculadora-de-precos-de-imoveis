@@ -5,6 +5,7 @@
 
   # Tecnologias a serem utilizadas
   - Python
+  - Javascript
   - HTML
   - Flask
   - Requests
