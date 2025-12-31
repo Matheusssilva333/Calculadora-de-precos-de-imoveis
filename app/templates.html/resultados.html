@@ -1,0 +1,14 @@
+<h1>Resultados da Busca</h1>
+<p>Você buscou por: <strong>{{ termo }}</strong></p>
+
+{% if resultados %}
+    <ul>
+    {% for item in resultados %}
+        <li>{{ item.nome }} ({{ item.categoria }})</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>Nenhum resultado encontrado.</p>
+{% endif %}
+
+<a href="/">Voltar para a busca</a>
