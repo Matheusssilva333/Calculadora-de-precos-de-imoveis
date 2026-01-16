@@ -1,4 +1,4 @@
-# Calculadora-de-preços-de-imoveis
+# Calculadora-de-preços-de-imóveis
 
 # Objetivo
 - Criar um site que calcule os preços de imóveis com exatidão e eficiência
