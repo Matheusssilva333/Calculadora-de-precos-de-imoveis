@@ -4,7 +4,7 @@ import requests
 
 import python-dotenv
 
-import numpy
+import numpy as np
 
 import seaborn
 
@@ -16,10 +16,9 @@ import pandas as pd
 app = Flask(__name__)
 
 
-@app.route('/index.html') # Define a rota para a página inicial
+@app.route('/') 
 def home():
-    # Retorna o template HTML chamado 'index.html'
-    # Flask procura por este arquivo na pasta 'templates'
+    
     return render_template('index.html')
 
     if __name__ == '__main__':
