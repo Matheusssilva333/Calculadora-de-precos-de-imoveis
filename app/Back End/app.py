@@ -12,23 +12,18 @@ import matplotlib
 
 import pandas as pd
 
-import tkinter as tk
-
 
 app = Flask(__name__)
 
 # Rota da página inicial
 
 @app.route('/') 
-def home(): return "Seja bem vindo!"
+
+return render_template('/index.html')
+
 print ("Clique aqui")
 
-# Rota Página de pesquisa de preços
-@app.route('/index.html')
-def Cálculo_de_preços () : return "index.html"
-
-
-    if __name__ == '__main__':
+if __name__ == '__main__':
     app.run(debug=True)
 
 

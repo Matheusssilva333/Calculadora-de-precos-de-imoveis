@@ -6,4 +6,3 @@ flask
 requests
 python-dotenv
 render_template
-Tkinter
