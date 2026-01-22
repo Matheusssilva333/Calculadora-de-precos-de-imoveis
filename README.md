@@ -15,7 +15,6 @@
   - Render_template
   - Seaborn
   - Matplotlib
-  - Tkinter
   - SQL
   - PostgreSQL
 
