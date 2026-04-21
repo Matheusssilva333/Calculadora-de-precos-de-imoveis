@@ -14,7 +14,6 @@ self.comprimento = 5 cm
 
 def titulo (self);
 
-
 self.formato = texto
 
 self.altura = 1 cm
