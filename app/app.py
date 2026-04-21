@@ -9,5 +9,5 @@ self.comprimento = 5 cm
 def Pesquisar(self)
 self.print("Digite aqui")
 
-Barra_De_Pesquisa = BarraDePesquisa
-print(Barra_De_Pesquisa.Pesquisar)
+barra_de_pesquisa = BarraDePesquisa
+print(barra_de_pesquisa.Pesquisar)
