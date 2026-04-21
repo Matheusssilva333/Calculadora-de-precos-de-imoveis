@@ -2,10 +2,10 @@
 // Interface do sistema
 
 
-class BarraDePesquisa
+class BarraDePesquisa:
 
 
-def __init__ (self);
+def __init__ (self):
 
 self.altura = 3 cm
 
@@ -15,7 +15,7 @@ self.comprimento = 5 cm
 
 
 
-def titulo (self);
+def titulo (self):
 
 self.formato = texto
 
@@ -23,7 +23,7 @@ self.print(Pesquise aqui)
 
 
 
-def pesquisar (self);
+def pesquisar (self):
 
 self.print("Digite aqui")
 
