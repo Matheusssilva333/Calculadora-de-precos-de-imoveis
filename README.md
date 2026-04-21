@@ -5,5 +5,6 @@
 
   # Tecnologias a serem utilizadas
   - Python
+  - 
   
 
