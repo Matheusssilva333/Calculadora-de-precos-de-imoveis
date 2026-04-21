@@ -9,7 +9,7 @@
 
 
 
-    def __init__ (self):
+    def __init__(self):
 
     self.cor = preto    
 
@@ -22,7 +22,7 @@
 
 
 
-    def pesquisar (self):   
+    def pesquisar(self):   
 
     self.print("Digite aqui")   
 
