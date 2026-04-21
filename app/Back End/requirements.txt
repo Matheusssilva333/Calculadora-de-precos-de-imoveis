@@ -1,8 +1,0 @@
-pandas
-matplotlib
-seaborn
-numpy
-flask
-requests
-python-dotenv
-render_template

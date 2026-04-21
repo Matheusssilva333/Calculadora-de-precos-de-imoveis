@@ -1,0 +1,16 @@
+[project]
+name = "calculadora-de-preco-de-imoveis"
+version = "0.1.0"
+description = "API profissional de Machine Learning para predição de preços de imóveis"
+authors = [
+    {name = "Matheus Silva",email = "matheus1882014@outlook.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [ "pandas", "numpy", "seaborn", "matplotlib", "requests", "python-dotenv", "render_template", "flask"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
