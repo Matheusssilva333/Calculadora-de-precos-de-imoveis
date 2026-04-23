@@ -5,5 +5,9 @@
 
   # Tecnologias a serem utilizadas
   - Python
+  - Pandas
+  - Numpy
+  - Tkinter
+  - XGBoost
   
 
