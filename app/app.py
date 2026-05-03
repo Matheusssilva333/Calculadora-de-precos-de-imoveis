@@ -2,8 +2,6 @@
     // Interface do sistema 
 
 
-
-
     class BarraDePesquisa:  
 
 
